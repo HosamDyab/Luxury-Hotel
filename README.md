@@ -56,7 +56,7 @@ A modern and elegant Flutter application for luxury hotel booking and management
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/luxury_hotel.git
+git clone https://github.com/hosam-dyab/luxury_hotel.git
 ```
 
 2. Install dependencies:
